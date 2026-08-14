@@ -1,0 +1,18 @@
+[submodule "Appium-Basics"]
+	path = Appium-Basics
+	url = git@github.com:YasserHawass/Appium-Basics.git
+[submodule "Cucumber-PHP-Travel"]
+	path = Cucumber-PHP-Travel
+	url = git@github.com:YasserHawass/Cucumber-PHP-Travel.git
+[submodule "E-commerce-BDD-with-Selenium"]
+	path = E-commerce-BDD-with-Selenium
+	url = git@github.com:YasserHawass/E-commerce-BDD-with-Selenium.git
+[submodule "Todo-Appium-Project"]
+	path = Todo-Appium-Project
+	url = git@github.com:YasserHawass/Todo-Appium-Project.git
+[submodule "TodoSeleniumProject"]
+	path = TodoSeleniumProject
+	url = git@github.com:YasserHawass/Todo-Selenium.git
+[submodule "cucumber-todo-app-project"]
+	path = cucumber-todo-app-project
+	url = git@github.com:YasserHawass/cucumber-todo-app-project.git
