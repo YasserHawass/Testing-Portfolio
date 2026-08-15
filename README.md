@@ -21,10 +21,11 @@ R&D Engineer by day, with a background spanning computer vision, digital identit
 | [E-commerce-BDD-with-Selenium](https://github.com/YasserHawass/E-commerce-BDD-with-Selenium) | Web / BDD | Selenium WebDriver, Cucumber, JUnit/TestNG, Maven | BDD automation for an e-commerce demo site — search, cart, and UI validations, following the same POM/hooks structure. |
 | [cucumber-todo-app-project](https://github.com/YasserHawass/cucumber-todo-app-project) | Web / BDD | Selenium, Cucumber, TestNG, Maven | Cucumber feature-driven automation of a To-Do web app. |
 | [TodoSeleniumProject](https://github.com/YasserHawass/Todo-Selenium) | Web | Selenium WebDriver, TestNG, Maven | Straight Selenium suite covering registration, adding, and deleting To-Do items. |
+| [QACartRestAssured](https://github.com/YasserHawass/QACartRestAssured) | API | REST Assured, TestNG, Maven, Allure | API test suite built with REST Assured, with an Allure report auto-published to GitHub Pages via a GitHub Actions workflow. |
 
 ## Tech Stack
 
-Java · Selenium WebDriver · Appium · Cucumber (BDD) · TestNG / JUnit · Maven · Page Object Model · Git · GitHub Actions · GitLab CI/CD · Jenkins · Docker
+Java · Selenium WebDriver · Appium · Cucumber (BDD) · REST Assured · TestNG / JUnit · Maven · Allure · Page Object Model · Git · GitHub Actions · GitLab CI/CD · Jenkins · Docker
 
 ## Getting Started
 

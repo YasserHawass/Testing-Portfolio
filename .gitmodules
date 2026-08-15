@@ -16,3 +16,6 @@
 [submodule "cucumber-todo-app-project"]
 	path = cucumber-todo-app-project
 	url = git@github.com:YasserHawass/cucumber-todo-app-project.git
+[submodule "QACartRestAssured"]
+	path = QACartRestAssured
+	url = git@github.com:YasserHawass/QACartRestAssured.git
